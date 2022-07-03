@@ -1,0 +1,8 @@
+2022-07-03 13:11:16,067 INFO org.hibernate.annotations.common.reflection.java.JavaReflectionManager [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-07-03 13:11:16,161 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+2022-07-03 13:11:17,210 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+2022-07-03 13:11:17,246 INFO org.hibernate.dialect.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2022-07-03 13:11:18,443 WARN org.hibernate.engine.jdbc.spi.SqlExceptionHelper$StandardWarningHandler [main] SQL Warning Code: 0, SQLState: 00000
+2022-07-03 13:11:18,445 WARN org.hibernate.engine.jdbc.spi.SqlExceptionHelper$StandardWarningHandler [main] constraint "uk_kiqfjabx9puw3p1eg7kily8kg" of relation "user" does not exist, skipping
+2022-07-03 13:11:18,582 WARN org.hibernate.engine.jdbc.spi.SqlExceptionHelper$StandardWarningHandler [main] SQL Warning Code: 0, SQLState: 00000
+2022-07-03 13:11:18,582 WARN org.hibernate.engine.jdbc.spi.SqlExceptionHelper$StandardWarningHandler [main] constraint "uk_sb8bbouer5wak8vyiiy4pf2bx" of relation "user" does not exist, skipping

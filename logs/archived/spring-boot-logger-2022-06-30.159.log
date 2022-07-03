@@ -1,0 +1,10 @@
+2022-06-30 22:29:09,018 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 1222 (http)
+2022-06-30 22:29:09,027 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-1222"]
+2022-06-30 22:29:09,027 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2022-06-30 22:29:09,027 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-06-30 22:29:09,111 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2022-06-30 22:29:09,112 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 948 ms
+2022-06-30 22:29:09,217 INFO org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-06-30 22:29:09,263 INFO org.hibernate.Version [main] HHH000412: Hibernate ORM core version 5.6.9.Final
+2022-06-30 22:29:09,410 INFO org.hibernate.annotations.common.reflection.java.JavaReflectionManager [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-06-30 22:29:09,506 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...

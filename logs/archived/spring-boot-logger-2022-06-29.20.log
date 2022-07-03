@@ -1,0 +1,6 @@
+2022-06-29 22:27:13,612 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8081-exec-1] Initializing Servlet 'dispatcherServlet'
+2022-06-29 22:27:13,615 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8081-exec-1] Completed initialization in 1 ms
+2022-06-29 22:28:09,021 WARN org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver [http-nio-8081-exec-10] Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'PUT' not supported]
+2022-06-29 22:58:53,314 INFO org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin [RMI TCP Connection(34)-127.0.0.1] Application shutdown requested.
+2022-06-29 22:58:53,471 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [RMI TCP Connection(34)-127.0.0.1] Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-06-29 22:58:53,473 INFO com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(34)-127.0.0.1] HikariPool-1 - Shutdown initiated...

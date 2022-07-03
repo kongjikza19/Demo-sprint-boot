@@ -1,0 +1,22 @@
+2022-06-26 14:54:15,122 ERROR com.google.demo.controller.api.ProductController [http-nio-8081-exec-2] test error
+2022-06-26 14:54:15,448 ERROR com.google.demo.controller.api.ProductController [http-nio-8081-exec-3] test error
+2022-06-26 14:54:15,915 ERROR com.google.demo.controller.api.ProductController [http-nio-8081-exec-4] test error
+2022-06-26 14:54:16,355 ERROR com.google.demo.controller.api.ProductController [http-nio-8081-exec-5] test error
+2022-06-26 14:54:52,411 ERROR com.google.demo.controller.api.ProductController [http-nio-8081-exec-1] test error
+2022-06-26 14:54:52,800 ERROR com.google.demo.controller.api.ProductController [http-nio-8081-exec-3] test error
+2022-06-26 14:54:53,280 ERROR com.google.demo.controller.api.ProductController [http-nio-8081-exec-4] test error
+2022-06-26 14:55:05,105 DEBUG org.jboss.logging.LoggerProviders [background-preinit] Logging Provider: org.jboss.logging.Log4j2LoggerProvider
+2022-06-26 14:55:05,108 INFO org.hibernate.validator.internal.util.Version [background-preinit] HV000001: Hibernate Validator 6.2.3.Final
+2022-06-26 14:55:05,109 DEBUG org.springframework.boot.SpringApplication [main] Loading source class com.google.demo.DemoApplication
+2022-06-26 14:55:05,115 DEBUG org.hibernate.validator.internal.xml.config.ValidationXmlParser [background-preinit] Trying to load META-INF/validation.xml for XML based Validator configuration.
+2022-06-26 14:55:05,116 DEBUG org.hibernate.validator.internal.xml.config.ResourceLoaderHelper [background-preinit] Trying to load META-INF/validation.xml via TCCL
+2022-06-26 14:55:05,116 DEBUG org.hibernate.validator.internal.xml.config.ResourceLoaderHelper [background-preinit] Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2022-06-26 14:55:05,117 DEBUG org.hibernate.validator.internal.xml.config.ValidationXmlParser [background-preinit] No META-INF/validation.xml found. Using annotation based configuration only.
+2022-06-26 14:55:05,120 DEBUG org.hibernate.validator.internal.engine.resolver.TraversableResolvers [background-preinit] Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2022-06-26 14:55:05,139 DEBUG org.hibernate.validator.messageinterpolation.ResourceBundleMessageInterpolator [background-preinit] Loaded expression factory via original TCCL
+2022-06-26 14:55:05,143 DEBUG org.springframework.context.support.AbstractApplicationContext [main] Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@631e06ab
+2022-06-26 14:55:05,158 DEBUG org.springframework.beans.factory.support.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2022-06-26 14:55:05,174 DEBUG org.springframework.beans.factory.support.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.internalCachingMetadataReaderFactory'
+2022-06-26 14:55:05,221 DEBUG org.springframework.context.annotation.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\KONG\eclipse-workspace\demo\target\classes\com\google\demo\config\CorsConfig.class]
+2022-06-26 14:55:05,225 DEBUG org.hibernate.validator.internal.engine.ValidatorFactoryConfigurationHelper [background-preinit] HV000252: Using org.hibernate.validator.internal.engine.DefaultPropertyNodeNameProvider as property node name provider.
+2022-06-26 14:55:05,228 DEBUG org.springframework.context.annotation.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [C:\Users\KONG\eclipse-workspace\demo\target\classes\com\google\demo\controller\api\DemoController.class]

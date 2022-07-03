@@ -1,0 +1,7 @@
+2022-06-29 00:32:53,031 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8081 (http) with context path ''
+2022-06-29 00:32:53,702 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8081-exec-5] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-06-29 00:32:53,703 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8081-exec-5] Initializing Servlet 'dispatcherServlet'
+2022-06-29 00:32:53,704 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8081-exec-5] Completed initialization in 1 ms
+2022-06-29 00:33:02,702 INFO org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin [RMI TCP Connection(2)-127.0.0.1] Application shutdown requested.
+2022-06-29 00:33:02,839 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [RMI TCP Connection(2)-127.0.0.1] Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-06-29 00:33:02,841 INFO com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(2)-127.0.0.1] HikariPool-1 - Shutdown initiated...

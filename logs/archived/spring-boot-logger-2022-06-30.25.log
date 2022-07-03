@@ -1,0 +1,6 @@
+2022-06-30 00:22:45,744 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8081-exec-7] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-06-30 00:22:45,746 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8081-exec-7] Initializing Servlet 'dispatcherServlet'
+2022-06-30 00:22:45,747 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8081-exec-7] Completed initialization in 1 ms
+2022-06-30 00:23:43,903 INFO org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin [RMI TCP Connection(4)-127.0.0.1] Application shutdown requested.
+2022-06-30 00:23:44,043 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [RMI TCP Connection(4)-127.0.0.1] Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-06-30 00:23:44,044 INFO org.hibernate.tool.schema.internal.SchemaDropperImpl$DelayedDropActionImpl [RMI TCP Connection(4)-127.0.0.1] HHH000477: Starting delayed evictData of schema as part of SessionFactory shut-down'

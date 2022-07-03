@@ -1,0 +1,14 @@
+2022-06-26 14:55:39,949 INFO org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin [RMI TCP Connection(4)-127.0.0.1] Application shutdown requested.
+2022-06-26 14:55:39,951 DEBUG org.springframework.boot.availability.ApplicationAvailabilityBean [RMI TCP Connection(4)-127.0.0.1] Application availability state ReadinessState changed from ACCEPTING_TRAFFIC to REFUSING_TRAFFIC
+2022-06-26 14:55:39,951 DEBUG org.springframework.context.support.AbstractApplicationContext [RMI TCP Connection(4)-127.0.0.1] Closing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@631e06ab, started on Sun Jun 26 14:55:05 ICT 2022
+2022-06-26 14:55:39,952 DEBUG org.springframework.context.support.DefaultLifecycleProcessor$LifecycleGroup [RMI TCP Connection(4)-127.0.0.1] Stopping beans in phase 2147483647
+2022-06-26 14:55:39,953 DEBUG org.springframework.context.support.DefaultLifecycleProcessor [RMI TCP Connection(4)-127.0.0.1] Bean 'webServerGracefulShutdown' completed its stop procedure
+2022-06-26 14:55:39,953 DEBUG org.springframework.context.support.DefaultLifecycleProcessor$LifecycleGroup [RMI TCP Connection(4)-127.0.0.1] Stopping beans in phase 2147483646
+2022-06-26 14:55:40,073 DEBUG org.springframework.context.support.DefaultLifecycleProcessor [RMI TCP Connection(4)-127.0.0.1] Bean 'webServerStartStop' completed its stop procedure
+2022-06-26 14:55:40,074 DEBUG org.springframework.jmx.export.MBeanExporter [RMI TCP Connection(4)-127.0.0.1] Unregistering JMX-exposed beans on shutdown
+2022-06-26 14:55:40,075 DEBUG org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [RMI TCP Connection(4)-127.0.0.1] Shutting down ExecutorService 'applicationTaskExecutor'
+2022-06-26 14:55:41,799 INFO org.hibernate.validator.internal.util.Version [background-preinit] HV000001: Hibernate Validator 6.2.3.Final
+2022-06-26 14:55:42,455 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8081 (http)
+2022-06-26 14:55:42,464 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8081"]
+2022-06-26 14:55:42,464 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2022-06-26 14:55:42,464 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.63]

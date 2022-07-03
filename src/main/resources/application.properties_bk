@@ -1,0 +1,17 @@
+server.port=1222
+
+app.upload.path=images
+
+spring.servlet.multipart.max-file-size=512KB
+spring.servlet.multipart.max-request-size=512KB
+
+#spring.datasource.url=jdbc:postgresql://tiny.db.elephantsql.com/iiqhrxet
+#spring.datasource.username=iiqhrxet
+#spring.datasource.password=Yw6wmLua8sEo_ltXmxpsSmfiixMY5FYq
+#
+#spring.jpa.properties.hibernate.format_sql=true
+#spring.jpa.show-sql=true
+#spring.jpa.hibernate.ddl-auto=update
+
+
+spring.profiles.active=test

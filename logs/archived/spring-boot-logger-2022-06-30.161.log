@@ -1,0 +1,13 @@
+2022-06-30 22:29:13,454 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 1222 (http) with context path ''
+2022-06-30 22:29:20,852 INFO org.apache.juli.logging.DirectJDKLog [http-nio-1222-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-06-30 22:29:20,853 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-1222-exec-1] Initializing Servlet 'dispatcherServlet'
+2022-06-30 22:29:20,854 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-1222-exec-1] Completed initialization in 1 ms
+2022-06-30 22:30:11,593 INFO org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin [RMI TCP Connection(3)-127.0.0.1] Application shutdown requested.
+2022-06-30 22:30:11,735 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [RMI TCP Connection(3)-127.0.0.1] Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-06-30 22:30:11,737 INFO com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(3)-127.0.0.1] HikariPool-1 - Shutdown initiated...
+2022-06-30 22:30:15,850 INFO org.hibernate.validator.internal.util.Version [background-preinit] HV000001: Hibernate Validator 6.2.3.Final
+2022-06-30 22:30:15,852 INFO org.hibernate.validator.internal.util.Version [background-preinit] HV000001: Hibernate Validator 6.2.3.Final
+2022-06-30 22:30:16,346 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-06-30 22:30:16,346 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-06-30 22:30:16,392 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 37 ms. Found 1 JPA repository interfaces.
+2022-06-30 22:30:16,394 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 38 ms. Found 1 JPA repository interfaces.

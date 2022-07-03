@@ -1,0 +1,8 @@
+2022-07-03 13:08:45,177 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 1222 (http)
+2022-07-03 13:08:45,186 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-1222"]
+2022-07-03 13:08:45,187 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2022-07-03 13:08:45,187 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-07-03 13:08:45,275 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2022-07-03 13:08:45,276 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1003 ms
+2022-07-03 13:08:45,389 INFO org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-07-03 13:08:45,436 INFO org.hibernate.Version [main] HHH000412: Hibernate ORM core version 5.6.9.Final
